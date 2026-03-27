@@ -1,4 +1,4 @@
-# 📄 AI-Powered Resume Screener
+# 📄KeyWord based Resume Screener
 
 A sleek, FastAPI-based web application that evaluates resumes against specific industry domains using keyword extraction and scoring logic.
 
